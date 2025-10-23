@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Trupthi SM
 
- "Turning ideas into reality with code and curiosity."  
+ Turning ideas into reality with code and curiosity. 
 
 💡 I’m a passionate learner, builder, and explorer — blending creativity with technology.  
 🚀 Currently diving deep into Web developement ,Machine Learning and AI-powered applications.    
