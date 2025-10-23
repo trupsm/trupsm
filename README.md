@@ -27,8 +27,6 @@ Turning ideas into reality with code and curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS" />
 </p>
 
----
-
 ### ⚙️ Frameworks & Libraries  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
@@ -38,16 +36,12 @@ Turning ideas into reality with code and curiosity.
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS" />
 </p>
 
----
-
 ### 🧩 Backend & APIs  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman" />
 </p>
-
----
 
 ### 🗄️ Databases  
 <p align="left">
@@ -57,8 +51,6 @@ Turning ideas into reality with code and curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" />
 </p>
-
----
 
 ### 🤖 AI / ML & Data Tools  
 <p align="left">
@@ -70,5 +62,3 @@ Turning ideas into reality with code and curiosity.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
 </p>
-
----
